@@ -31,7 +31,7 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
-  opacity: 0;
+  opacity: 10;
   transform: translateY(300px) scale(1.2);
   animation: clear 0.5s forwards;
 }
